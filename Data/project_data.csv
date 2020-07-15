@@ -1,0 +1,761 @@
+,ID,Especialidad del Médico,¿Ha considerado ofrecer consultas  médicas a distancia (teleconsultas) a través de videoconferencias a sus pacientes?,"¿Del 1 al 5, qué tan común considera que será que sus pacientes soliciten teleconsultas médicas para atender sus padecimientos?","¿Cuenta con alguna plataforma digital que le ayude con la administración de sus servicios médicos (Por Ejemplo: con la gestión de citas, pagos, seguimiento a pacientes)?",¿Cuáles?,¿Cuenta con alguna plataforma digital para ofrecer teleconsultas?,¿Cuáles?2,Seleccione las funcionalidades que considera importantes para que estén presentes en una plataforma digital que lo apoye con la gestión de sus servicios médicos.,¿Cuánto estaría dispuesto a pagar mensualmente por el uso de la plataforma descrita?,"Si le ofrecieran una plataforma digital a un precio competitivo para facilitarle la gestión de su agenda de citas, cobros y seguimientos a pacientes, así como la posibilidad de llevar a cabo telec..."
+0,4,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+1,5,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+2,6,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $750 ,2: Con poca regularidad
+3,7,Internista,SI,3: Neutral,SI,Huli,SI,Huli,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",No pagaría por una,1: No la utilizaría
+4,8,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,1: No la utilizaría
+5,9,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+6,10,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,3: Neutral
+7,11,Endocrinólogo,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+8,12,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+9,13,Internista,NO,1: No será común ,NO,,NO,,No;,No pagaría por una,2: Con poca regularidad
+10,14,Internista,NO,1: No será común ,NO,,NO,,Gestión de pagos;,No pagaría por una,1: No la utilizaría
+11,15,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+12,16,Endocrinólogo,NO,3: Neutral,NO,,SI,Whatsapp / zoom / facebook ,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,2: Con poca regularidad
+13,17,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,4: Con cierta regularidad
+14,18,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,3: Neutral
+15,19,Internista,SI,2: Poco común,SI,Personalizada,SI,Videollamda,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+16,20,Internista,NO,1: No será común ,NO,,NO,,No usa;,No pagaría por una,2: Con poca regularidad
+17,21,Endocrinólogo,SI,5: Totalmente Común ,SI,Zoom,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,1: No la utilizaría
+18,22,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",No pagaría por una,2: Con poca regularidad
+19,23,Internista,SI,4: Muy Común,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+20,24,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+21,25,Internista,SI,3: Neutral,NO,,SI,WhatsApp ,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+22,26,Internista,SI,3: Neutral,NO,,NO,,Gestión de pagos;,Más de $750,3: Neutral
+23,27,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,3: Neutral
+24,28,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,3: Neutral
+25,29,Endocrinólogo,NO,3: Neutral,NO,,NO,,No le interesa;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+26,30,Endocrinólogo,SI,4: Muy Común,SI,Huli practice,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,5: Regularmente
+27,31,Internista,SI,3: Neutral,NO,,SI,Whats App,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+28,32,Internista,SI,4: Muy Común,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,4: Con cierta regularidad
+29,33,Endocrinólogo,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,4: Con cierta regularidad
+30,34,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Aplicación de promociones de descuento para clientes ;",Menos de $100 ,2: Con poca regularidad
+31,35,Internista,SI,4: Muy Común,NO,,SI,"Zoom, webex, wats App","Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $100 ,4: Con cierta regularidad
+32,36,Internista,SI,2: Poco común,NO,,SI,Wats App,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+33,37,Internista,SI,4: Muy Común,NO,,SI,Waths App y webex,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;,Menos de $100 ,4: Con cierta regularidad
+34,38,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+35,39,Internista,SI,2: Poco común,NO,,SI,whatsApp ,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+36,40,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,2: Con poca regularidad
+37,41,Internista,SI,4: Muy Común,NO,,SI,Solo waths App,Creación automática de videoconferencias con clientes;Administración de citas;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;,Menos de $100 ,4: Con cierta regularidad
+38,42,Internista,NO,1: No será común ,NO,,NO,,No utilizo computadora para consultas;,No pagaría por una,1: No la utilizaría
+39,43,Internista,SI,3: Neutral,SI,Computadora ,SI,Una personal,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,1: No la utilizaría
+40,44,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,4: Con cierta regularidad
+41,45,Internista,SI,4: Muy Común,SI,Personal,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+42,46,Internista,NO,3: Neutral,SI,Personal,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,3: Neutral
+43,47,Endocrinólogo,SI,4: Muy Común,SI,Personal,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,3: Neutral
+44,48,Internista,SI,4: Muy Común,SI,Clínic Cloud,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,4: Con cierta regularidad
+45,49,Internista,SI,4: Muy Común,SI,Emr,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,4: Con cierta regularidad
+46,50,Internista,NO,3: Neutral,SI,Personal,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+47,51,Internista,NO,2: Poco común,SI,Personal,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+48,52,Internista,NO,1: No será común ,NO,,NO,,No considero usar platafromas de ninguna para atender pacientes en esa modalidad;,No pagaría por una,1: No la utilizaría
+49,53,Internista,SI,3: Neutral,NO,,SI,Zoom whatsapp skype,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+50,54,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+51,55,Internista,NO,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+52,56,Internista,NO,1: No será común ,NO,,NO,,NINGUNA;,No pagaría por una,2: Con poca regularidad
+53,57,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+54,58,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,No pagaría por una,2: Con poca regularidad
+55,59,Internista,NO,1: No será común ,NO,,NO,,NINGUNA;,No pagaría por una,1: No la utilizaría
+56,60,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+57,61,Endocrinólogo,SI,3: Neutral,SI,DOCTORALIA,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,3: Neutral
+58,62,Internista,NO,1: No será común ,NO,,NO,,NO;,No pagaría por una,1: No la utilizaría
+59,63,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+60,64,Endocrinólogo,NO,1: No será común ,NO,,NO,,NO;,No pagaría por una,1: No la utilizaría
+61,65,Internista,NO,1: No será común ,SI,DOCTORALIA,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+62,66,Internista,NO,1: No será común ,NO,,NO,,NINGUNA;,No pagaría por una,1: No la utilizaría
+63,67,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+64,68,Internista,NO,2: Poco común,NO,,NO,,Despliegue de encuestas de satisfacción de clientes;,No pagaría por una,1: No la utilizaría
+65,69,Endocrinólogo,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+66,70,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+67,71,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+68,72,Endocrinólogo,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+69,73,Internista,NO,2: Poco común,NO,,NO,,NADA;,No pagaría por una,1: No la utilizaría
+70,74,Internista,NO,1: No será común ,NO,,NO,,NO;,No pagaría por una,1: No la utilizaría
+71,75,Internista,NO,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,3: Neutral
+72,76,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;Despliegue de encuestas de satisfacción de clientes;,No pagaría por una,2: Con poca regularidad
+73,77,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+74,78,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+75,79,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+76,80,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+77,81,Internista,NO,2: Poco común,NO,,NO,,NO LO HE CONAIDERADO;,No pagaría por una,2: Con poca regularidad
+78,82,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,3: Neutral
+79,83,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+80,84,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+81,85,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+82,86,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+83,87,Endocrinólogo,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+84,88,Internista,NO,4: Muy Común,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+85,89,Internista,NO,1: No será común ,NO,,NO,,Ninguna;,No pagaría por una,1: No la utilizaría
+86,90,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+87,91,Endocrinólogo,NO,2: Poco común,NO,,NO,,Gestión de pagos;,Menos de $750 ,1: No la utilizaría
+88,92,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $750 ,3: Neutral
+89,93,Internista,NO,1: No será común ,NO,,NO,,Ninguna;,Menos de $750 ,1: No la utilizaría
+90,94,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+91,95,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+92,96,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+93,97,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+94,98,Endocrinólogo,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+95,99,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+96,100,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+97,101,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,4: Con cierta regularidad
+98,102,Internista,SI,2: Poco común,NO,,SI,Skype,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",No pagaría por una,3: Neutral
+99,103,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+100,104,Internista,NO,2: Poco común,NO,,SI,Skipe,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+101,105,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,3: Neutral
+102,106,Internista,SI,2: Poco común,NO,,SI,Skipe,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+103,107,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $100 ,3: Neutral
+104,108,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $100 ,3: Neutral
+105,109,Internista,SI,1: No será común ,NO,,SI,whatsApp ,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+106,110,Internista,NO,1: No será común ,NO,,NO,,NO LA USO ;,No pagaría por una,2: Con poca regularidad
+107,111,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+108,112,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+109,113,Internista,SI,2: Poco común,SI,Doctoralia,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+110,114,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+111,115,Internista,NO,2: Poco común,NO,,NO,,No esta interezado;,Menos de $100 ,2: Con poca regularidad
+112,116,Internista,SI,3: Neutral,SI,Whats app,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,3: Neutral
+113,117,Endocrinólogo,NO,3: Neutral,NO,,NO,,Por el momento solo whats app;,Menos de $100 ,3: Neutral
+114,118,Endocrinólogo,NO,1: No será común ,NO,,NO,,Nada;,Menos de $100 ,2: Con poca regularidad
+115,119,Internista,NO,1: No será común ,NO,,NO,,No;,No pagaría por una,3: Neutral
+116,120,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+117,121,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+118,122,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $750 ,3: Neutral
+119,123,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+120,124,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+121,125,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+122,126,Internista,SI,3: Neutral,NO,,SI,Skype ,Administración de citas;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,4: Con cierta regularidad
+123,127,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+124,128,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $100 ,2: Con poca regularidad
+125,129,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+126,130,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+127,131,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,2: Con poca regularidad
+128,132,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,3: Neutral
+129,133,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+130,134,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,3: Neutral
+131,135,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,Menos de $750 ,2: Con poca regularidad
+132,136,Internista,NO,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+133,137,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,3: Neutral
+134,138,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,4: Con cierta regularidad
+135,139,Internista,SI,3: Neutral,NO,,SI,whatsApp y Zoom,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Aplicación de promociones de descuento para clientes ;",No pagaría por una,4: Con cierta regularidad
+136,140,Internista,SI,3: Neutral,SI,Mi secretaria lo hace,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+137,141,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+138,142,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+139,143,Internista,NO,3: Neutral,SI,Doctoralia,NO,,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+140,144,Internista,SI,3: Neutral,SI,Doctoralia,SI,Whats app,Administración de citas;,No pagaría por una,3: Neutral
+141,145,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+142,146,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+143,147,Internista,NO,1: No será común ,NO,,SI,whatsApp ,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+144,148,Internista,NO,3: Neutral,SI,Doctoralis,NO,,Administración de citas;,Menos de $100 ,3: Neutral
+145,149,Internista,NO,3: Neutral,SI,"Topdoc, abcmedico, docfav, doctoralia",NO,,Administración de citas;,Menos de $750 ,3: Neutral
+146,150,Endocrinólogo,NO,1: No será común ,NO,,NO,,No lo a cosiderado;,No pagaría por una,1: No la utilizaría
+147,151,Endocrinólogo,SI,2: Poco común,SI,Mi secretarias,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,2: Con poca regularidad
+148,152,Internista,NO,3: Neutral,SI,"Doctoralia, topdoc",SI,Whats app,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,2: Con poca regularidad
+149,153,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,2: Con poca regularidad
+150,154,Internista,NO,4: Muy Común,NO,,SI,Webex,Administración de citas;Gestión de pagos;,Menos de $750 ,3: Neutral
+151,155,Endocrinólogo,SI,3: Neutral,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+152,156,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+153,157,Endocrinólogo,NO,3: Neutral,NO,,NO,,No le intereza;,No pagaría por una,1: No la utilizaría
+154,158,Endocrinólogo,NO,1: No será común ,SI,COMPAÑIA DIGITAL ,SI,PLATAFORMA DIGITAL,Administración de citas;Gestión de pagos;,Más de $750,5: Regularmente
+155,159,Internista,NO,3: Neutral,NO,,NO,,No intereza;,No pagaría por una,1: No la utilizaría
+156,160,Endocrinólogo,SI,3: Neutral,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+157,161,Endocrinólogo,NO,2: Poco común,SI,"Doctoralia, medicomexico, vymaps, businessyab, google, ",SI,Whats app,Administración de citas;,Menos de $750 ,2: Con poca regularidad
+158,162,Internista,NO,3: Neutral,SI,"Tocdoc,doctoralia,",SI,Whats app,Administración de citas;,Menos de $750 ,3: Neutral
+159,163,Internista,SI,5: Totalmente Común ,NO,,SI,"Zoom, WhatsApp ","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,1: No la utilizaría
+160,164,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+161,165,Internista,SI,2: Poco común,NO,,SI,ZOOM,Administración de citas;,No pagaría por una,2: Con poca regularidad
+162,166,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+163,167,Endocrinólogo,NO,2: Poco común,NO,,NO,,no le es funcional prefiere genera todo en físico ;,No pagaría por una,1: No la utilizaría
+164,168,Internista,SI,2: Poco común,NO,,SI,"whatsApp, Facebook ","Informacion ;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+165,169,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Menos de $100 ,2: Con poca regularidad
+166,170,Endocrinólogo,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+167,171,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+168,172,Internista,SI,3: Neutral,NO,,SI,"Skype,  whatsApp","Informativa;Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,3: Neutral
+169,173,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+170,174,Internista,NO,2: Poco común,NO,,NO,,NO LE INTERESA;,No pagaría por una,1: No la utilizaría
+171,175,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,3: Neutral
+172,176,Endocrinólogo,NO,4: Muy Común,SI,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $100 ,1: No la utilizaría
+173,177,Internista,NO,5: Totalmente Común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,5: Regularmente
+174,178,Internista,NO,1: No será común ,NO,,SI,whatsApp ,Informativa;,No pagaría por una,1: No la utilizaría
+175,179,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,2: Con poca regularidad
+176,180,Endocrinólogo,NO,2: Poco común,NO,,SI,skype,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+177,181,Internista,NO,2: Poco común,SI,Aspel ,SI,Telmex,Informacion de Laboratorios ;Administración de citas;,No pagaría por una,3: Neutral
+178,182,Internista,NO,1: No será común ,NO,,NO,,No le es de utilidad;,No pagaría por una,1: No la utilizaría
+179,183,Endocrinólogo,NO,2: Poco común,SI,Software del hosopital,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,2: Con poca regularidad
+180,184,Endocrinólogo,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,4: Con cierta regularidad
+181,185,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,2: Con poca regularidad
+182,186,Internista,NO,1: No será común ,NO,,SI,Skype,No la utiliza;,No pagaría por una,3: Neutral
+183,187,Internista,NO,2: Poco común,NO,,NO,,No lo creo viable;,No pagaría por una,1: No la utilizaría
+184,188,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $100 ,3: Neutral
+185,189,Endocrinólogo,SI,2: Poco común,SI,,SI,,Administración de citas;Gestión de pagos;,Menos de $750 ,3: Neutral
+186,190,Internista,SI,4: Muy Común,SI,HuliPractice,SI,HuliPractice,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+187,191,Internista,NO,1: No será común ,NO,,NO,,Ni lo usaria;,No pagaría por una,1: No la utilizaría
+188,192,Internista,SI,2: Poco común,SI,Doctoralia,SI,Doctoralia ,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,2: Con poca regularidad
+189,193,Internista,NO,1: No será común ,NO,,NO,,No le interesa;,No pagaría por una,1: No la utilizaría
+190,194,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",No pagaría por una,3: Neutral
+191,195,Internista,SI,2: Poco común,NO,,SI,Zoom,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,3: Neutral
+192,196,Internista,NO,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,1: No la utilizaría
+193,197,Endocrinólogo,NO,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,3: Neutral
+194,198,Internista,NO,3: Neutral,NO,,NO,,NO TENGO ASISTENTE;,No pagaría por una,1: No la utilizaría
+195,199,Internista,NO,1: No será común ,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+196,200,Endocrinólogo,SI,5: Totalmente Común ,SI,AGENDA DIGITAL SECRETARIA VIRTUAL Y VIDEO CONSULTA,SI,AGENDA DIGITAL SECRETARIA VIRTUAL Y VIDEO CONSULTA,Administración de citas;,Menos de $750 ,5: Regularmente
+197,201,Internista,NO,5: Totalmente Común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,1: No la utilizaría
+198,202,Internista,NO,1: No será común ,NO,,NO,,NO ME INTERESA;,No pagaría por una,1: No la utilizaría
+199,203,Internista,NO,1: No será común ,NO,,NO,,No lo acostumbra;,No pagaría por una,3: Neutral
+200,204,Internista,NO,1: No será común ,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+201,205,Internista,NO,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,3: Neutral
+202,206,Endocrinólogo,NO,3: Neutral,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+203,207,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,2: Con poca regularidad
+204,208,Internista,NO,1: No será común ,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+205,209,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+206,210,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,1: No la utilizaría
+207,211,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+208,212,Endocrinólogo,SI,4: Muy Común,SI,no lo dijo,SI,no lo menciono,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,5: Regularmente
+209,213,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+210,214,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,4: Con cierta regularidad
+211,215,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+212,216,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+213,217,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Más de $750,4: Con cierta regularidad
+214,218,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+215,219,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+216,220,Endocrinólogo,SI,3: Neutral,SI,Zoom y WhatsApp,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+217,221,Internista,SI,4: Muy Común,SI,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+218,222,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+219,223,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+220,224,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+221,225,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+222,226,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,1: No la utilizaría
+223,227,Endocrinólogo,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+224,228,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,4: Con cierta regularidad
+225,229,Internista,SI,4: Muy Común,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",No pagaría por una,4: Con cierta regularidad
+226,230,Endocrinólogo,SI,4: Muy Común,SI,Docplanner de Doctoralia,SI,"Zoom, Whatsapp","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+227,231,Internista,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,4: Con cierta regularidad
+228,232,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+229,233,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+230,234,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,2: Con poca regularidad
+231,235,Internista,SI,5: Totalmente Común ,NO,,SI,"skype, whatsapp","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,5: Regularmente
+232,236,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+233,237,Internista,SI,4: Muy Común,NO,,SI,Whatsapp,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,3: Neutral
+234,238,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,2: Con poca regularidad
+235,239,Internista,SI,4: Muy Común,NO,,SI,"Wats App, skype","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,4: Con cierta regularidad
+236,240,Internista,SI,4: Muy Común,NO,,SI,"Skype, zoom, wats app","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+237,241,Endocrinólogo,SI,4: Muy Común,NO,,SI,"Whatsapp, Webex","Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,4: Con cierta regularidad
+238,242,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,5: Regularmente
+239,243,Internista,SI,5: Totalmente Común ,NO,,SI,Whatsapp,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,4: Con cierta regularidad
+240,244,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+241,245,Internista,NO,3: Neutral,NO,,SI,Whatsapp,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+242,246,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+243,247,Internista,NO,3: Neutral,NO,,NO,,No he considerado la opcion;,No pagaría por una,3: Neutral
+244,248,Internista,NO,2: Poco común,SI,Medsi,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,3: Neutral
+245,249,Internista,SI,3: Neutral,SI,Es un programa propio ,SI,En ocasiones vía whats,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+246,250,Internista,NO,2: Poco común,NO,,NO,,No creo sustituya la consulta ;,No pagaría por una,1: No la utilizaría
+247,251,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;,Menos de $100 ,3: Neutral
+248,252,Internista,SI,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+249,253,Internista,SI,3: Neutral,NO,,NO,,Gestión de pagos;,Menos de $750 ,4: Con cierta regularidad
+250,254,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,2: Con poca regularidad
+251,255,Internista,SI,3: Neutral,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Menos de $750 ,4: Con cierta regularidad
+252,256,Internista,NO,1: No será común ,NO,,NO,,No por que tiene que explorar a sus pacientes;,No pagaría por una,1: No la utilizaría
+253,257,Endocrinólogo,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,1: No la utilizaría
+254,258,Internista,SI,3: Neutral,SI,Crm,SI,"whatsApp , Skype ","Informativo;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,3: Neutral
+255,259,Internista,SI,4: Muy Común,SI,Soom,NO,,Todas;,No pagaría por una,1: No la utilizaría
+256,260,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+257,261,Internista,SI,2: Poco común,NO,,SI,Alivio zoom,Todo;,Menos de $750 ,4: Con cierta regularidad
+258,262,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+259,263,Internista,NO,4: Muy Común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+260,264,Internista,SI,2: Poco común,NO,,NO,,Todas;,Menos de $100 ,2: Con poca regularidad
+261,265,Endocrinólogo,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+262,266,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,3: Neutral
+263,267,Endocrinólogo,NO,2: Poco común,NO,,NO,,No la requiero;,No pagaría por una,1: No la utilizaría
+264,268,Internista,NO,1: No será común ,SI,,SI,,Ninguna;,No pagaría por una,1: No la utilizaría
+265,269,Internista,SI,2: Poco común,NO,,NO,,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+266,270,Internista,NO,1: No será común ,NO,,NO,,Innecesarias;,No pagaría por una,1: No la utilizaría
+267,271,Endocrinólogo,SI,2: Poco común,NO,,SI,Zoon face time,Gestionar todo;,Menos de $750 ,4: Con cierta regularidad
+268,272,Internista,NO,1: No será común ,NO,,NO,,Que tuviera todo ;,Menos de $100 ,2: Con poca regularidad
+269,273,Internista,SI,2: Poco común,NO,,SI,Zoom y wats app,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,2: Con poca regularidad
+270,274,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+271,275,Internista,SI,4: Muy Común,NO,,SI,Wats app,Todas;,Menos de $100 ,4: Con cierta regularidad
+272,276,Internista,SI,2: Poco común,NO,,SI,Zoom,Que pudiera llevar todo mi secretaria;,No pagaría por una,2: Con poca regularidad
+273,277,Endocrinólogo,SI,2: Poco común,NO,,SI,Wats app,Que nos proporcionará todo y buen precio accesible ;,Menos de $100 ,2: Con poca regularidad
+274,278,Internista,SI,2: Poco común,NO,,SI,Zoom y wats app pero solo de seguimiento,Que nos apoye y de calidad;,Menos de $100 ,2: Con poca regularidad
+275,279,Internista,SI,4: Muy Común,NO,,SI,Zoom ,Que nos ofrezca buena calidad ;,Menos de $750 ,4: Con cierta regularidad
+276,280,Internista,SI,4: Muy Común,NO,,SI,,"Wats, zoom, teams, incluso webex;",Menos de $750 ,4: Con cierta regularidad
+277,281,Internista,SI,2: Poco común,NO,,SI,Zoom whats app ,Solo de seguimiento ;,Menos de $100 ,2: Con poca regularidad
+278,282,Internista,SI,2: Poco común,NO,,SI,Whatsapp,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+279,283,Internista,NO,1: No será común ,NO,,NO,,No estoy interesado;,No pagaría por una,1: No la utilizaría
+280,284,Internista,NO,1: No será común ,NO,,NO,,Ninguna me interesa;,No pagaría por una,1: No la utilizaría
+281,285,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,3: Neutral
+282,286,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+283,287,Internista,SI,2: Poco común,NO,,SI,whatsApp ,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+284,288,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,4: Con cierta regularidad
+285,289,Internista,NO,2: Poco común,NO,,SI,Skype ,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+286,290,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+287,291,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,3: Neutral
+288,292,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+289,293,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+290,294,Endocrinólogo,SI,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,5: Regularmente
+291,295,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+292,296,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+293,297,Internista,NO,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+294,298,Endocrinólogo,NO,1: No será común ,NO,,NO,,Ninguna;,No pagaría por una,1: No la utilizaría
+295,299,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+296,300,Internista,SI,2: Poco común,NO,,SI,Wats app zoom,Son gratis;,Menos de $100 ,2: Con poca regularidad
+297,301,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;,No pagaría por una,3: Neutral
+298,302,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+299,303,Internista,SI,2: Poco común,NO,,SI,Zoom ,De seguimiento ;,Menos de $100 ,2: Con poca regularidad
+300,304,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,3: Neutral
+301,305,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+302,306,Internista,SI,4: Muy Común,NO,,NO,,Que englobar a varias;,Menos de $750 ,4: Con cierta regularidad
+303,307,Internista,SI,2: Poco común,NO,,SI,"Skype, wats app, zoom, face time",Que o fresca calidad ;,Menos de $750 ,2: Con poca regularidad
+304,308,Internista,SI,4: Muy Común,NO,,SI,Webex institucional. Zoom ,Que considerará varias de las anteriores;,Menos de $750 ,4: Con cierta regularidad
+305,309,Internista,NO,1: No será común ,NO,,NO,,Ninguna ;,No pagaría por una,1: No la utilizaría
+306,310,Internista,NO,2: Poco común,NO,,NO,,Ninguna;,No pagaría por una,1: No la utilizaría
+307,311,Internista,SI,3: Neutral,SI,Yo consulto mucho por WhatsApp De ser necesario video llamada . Y yo ya tengo 28 años ejerciendo. Normalmente me pagan con un traspaso a mi tarjeta de débito.,SI,WhatsApp ,"Yo he trabajado por Skype o la página de la Mato Clinic como consultante. O para ayudar a dar diagnósticos. Es muy útil esta vía. Y si Se organiza el servidor con recetas  que al imprimir sean útiles es muy bueno agregando como hago yo en mi practica privada mi tarjeta de débito me traspasa el pago.  Sería muy bueno que se hiciera como algo frecuente. Gracias. Dios los Bendice. ;Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,5: Regularmente
+308,312,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+309,313,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+310,314,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,Menos de $750 ,2: Con poca regularidad
+311,315,Internista,NO,3: Neutral,NO,,NO,,NO USARIA;,No pagaría por una,1: No la utilizaría
+312,316,Internista,NO,1: No será común ,NO,,NO,,NINGUNA;,No pagaría por una,1: No la utilizaría
+313,317,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+314,318,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+315,319,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+316,320,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,Menos de $750 ,4: Con cierta regularidad
+317,321,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+318,322,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $750 ,2: Con poca regularidad
+319,323,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $100 ,4: Con cierta regularidad
+320,324,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+321,325,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+322,326,Endocrinólogo,SI,3: Neutral,SI,Videollamadas,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,3: Neutral
+323,327,Internista,SI,3: Neutral,NO,,SI,Skype,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,3: Neutral
+324,328,Internista,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+325,329,Internista,SI,4: Muy Común,NO,,SI,skype,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+326,330,Endocrinólogo,NO,3: Neutral,NO,,NO,,no le interesa;,No pagaría por una,1: No la utilizaría
+327,331,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+328,332,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,4: Con cierta regularidad
+329,333,Internista,NO,1: No será común ,NO,,NO,,no le interesa plataformas;,No pagaría por una,1: No la utilizaría
+330,334,Endocrinólogo,SI,4: Muy Común,SI,,SI,"Skype , video llamadas telefonicas","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Más de $750,5: Regularmente
+331,335,Internista,NO,1: No será común ,NO,,NO,,NO LE INTERESAN PLATAFORMAS;,No pagaría por una,1: No la utilizaría
+332,336,Internista,SI,3: Neutral,SI,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,3: Neutral
+333,337,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+334,338,Internista,NO,1: No será común ,NO,,NO,,Todas;,No pagaría por una,2: Con poca regularidad
+335,339,Internista,SI,4: Muy Común,NO,,SI,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+336,340,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+337,341,Internista,SI,3: Neutral,SI,,SI,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+338,342,Internista,SI,3: Neutral,SI,Excel,SI,Skype ,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;,Más de $750,5: Regularmente
+339,343,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+340,344,Internista,SI,4: Muy Común,SI,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Más de $750,5: Regularmente
+341,345,Endocrinólogo,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+342,346,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,2: Con poca regularidad
+343,347,Internista,SI,3: Neutral,SI,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,3: Neutral
+344,348,Endocrinólogo,SI,4: Muy Común,SI,Doctoralia,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+345,349,Endocrinólogo,SI,2: Poco común,NO,,SI,Zoom,Que este completa;,Menos de $750 ,2: Con poca regularidad
+346,350,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+347,351,Internista,NO,2: Poco común,SI,TERMINAL,NO,,NO LE INTERESA;,No pagaría por una,1: No la utilizaría
+348,352,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+349,353,Internista,SI,4: Muy Común,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+350,354,Internista,SI,3: Neutral,NO,,SI,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,3: Neutral
+351,355,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+352,356,Endocrinólogo,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,2: Con poca regularidad
+353,357,Internista,NO,1: No será común ,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+354,358,Internista,SI,5: Totalmente Común ,NO,,SI,Zoom skype face,"Realmente que sea competitiva, con calidad, este a nivel y no muy cara;",Menos de $750 ,5: Regularmente
+355,359,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+356,360,Internista,SI,2: Poco común,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,2: Con poca regularidad
+357,361,Endocrinólogo,SI,2: Poco común,NO,,NO,,Gestione todo o gran parte;,Menos de $750 ,2: Con poca regularidad
+358,362,Internista,SI,3: Neutral,NO,,SI,"Whatsap, zoom, meet","Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+359,363,Internista,NO,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+360,364,Internista,NO,1: No será común ,SI,Doctorolia,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,2: Con poca regularidad
+361,365,Internista,SI,2: Poco común,NO,,SI,whatsApp ,Información ;Administración de citas;,No pagaría por una,2: Con poca regularidad
+362,366,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+363,367,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+364,368,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+365,369,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+366,370,Internista,SI,2: Poco común,SI,Doctoralia,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+367,371,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+368,372,Internista,NO,1: No será común ,NO,,NO,,No intereso;,No pagaría por una,1: No la utilizaría
+369,373,Internista,NO,3: Neutral,NO,,SI,Whatsapp,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $750 ,3: Neutral
+370,374,Internista,SI,5: Totalmente Común ,SI,"Whatssap, correo electrónico ",NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+371,375,Internista,SI,2: Poco común,SI,"Me agendan citas, y transfieren pago",NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+372,376,Internista,SI,5: Totalmente Común ,NO,,SI,Skype y whatsapp,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+373,377,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+374,378,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+375,379,Internista,SI,4: Muy Común,NO,,SI,Skype y whtsapp,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+376,380,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+377,381,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,3: Neutral
+378,382,Endocrinólogo,SI,4: Muy Común,SI,-,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,4: Con cierta regularidad
+379,383,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+380,384,Endocrinólogo,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+381,385,Internista,NO,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,2: Con poca regularidad
+382,386,Endocrinólogo,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",No pagaría por una,3: Neutral
+383,387,Endocrinólogo,SI,5: Totalmente Común ,SI,"Tengo NimboX , aunque no uso todo lo que ofrece",SI,"Uso zoom, formulario previo de google drive. Tengo NimboX, pero no uso todo lo que ofrecen.","Formulario previo llenado por el paciente con historia clinica;Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+384,388,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+385,389,Internista,NO,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+386,390,Internista,NO,1: No será común ,NO,,NO,,Ninguna;,No pagaría por una,3: Neutral
+387,391,Internista,NO,3: Neutral,NO,,NO,,Realmente necesita ver a su oaciente;,No pagaría por una,1: No la utilizaría
+388,392,Internista,SI,2: Poco común,NO,,SI,Wats app ,Que ofreca buena calidad y apoye con el costo ;,Menos de $100 ,2: Con poca regularidad
+389,393,Endocrinólogo,SI,2: Poco común,NO,,SI,Google null,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+390,394,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+391,395,Endocrinólogo,SI,4: Muy Común,NO,,SI,Zoom skype watts apo,Que nos apoye con la requisicion;,Menos de $750 ,4: Con cierta regularidad
+392,396,Internista,NO,1: No será común ,NO,,NO,,No le interesa ;,No pagaría por una,1: No la utilizaría
+393,397,Internista,SI,4: Muy Común,SI,Empy doctor,SI,Empy doctor ,No necesita ya tiene ;,No pagaría por una,1: No la utilizaría
+394,398,Endocrinólogo,NO,1: No será común ,NO,,NO,,No la requiere;,No pagaría por una,1: No la utilizaría
+395,399,Internista,SI,4: Muy Común,SI,,SI,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,5: Regularmente
+396,400,Internista,NO,1: No será común ,NO,,NO,,Usa whats app;,Menos de $100 ,2: Con poca regularidad
+397,401,Internista,NO,1: No será común ,NO,,NO,,Necesita ver a sus pacientes y ellos no quieren;,No pagaría por una,1: No la utilizaría
+398,402,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,2: Con poca regularidad
+399,403,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+400,404,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+401,405,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+402,406,Internista,NO,4: Muy Común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+403,407,Internista,NO,2: Poco común,NO,,NO,,Gestión de pagos;,No pagaría por una,1: No la utilizaría
+404,408,Internista,NO,3: Neutral,NO,,NO,,Ninguna;,No pagaría por una,1: No la utilizaría
+405,409,Internista,NO,1: No será común ,NO,,NO,,Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+406,410,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+407,411,Internista,NO,1: No será común ,NO,,NO,,Ninguna;,No pagaría por una,1: No la utilizaría
+408,412,Internista,SI,2: Poco común,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Menos de $750 ,3: Neutral
+409,413,Internista,NO,4: Muy Común,NO,,NO,,Despliegue de encuestas de satisfacción de clientes;,No pagaría por una,2: Con poca regularidad
+410,414,Endocrinólogo,NO,5: Totalmente Común ,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $100 ,3: Neutral
+411,415,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,2: Con poca regularidad
+412,416,Internista,NO,2: Poco común,NO,,NO,,Despliegue de encuestas de satisfacción de clientes;,Menos de $750 ,2: Con poca regularidad
+413,417,Internista,SI,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,3: Neutral
+414,418,Internista,NO,2: Poco común,NO,,NO,,Gestión de pagos;,Menos de $100 ,1: No la utilizaría
+415,419,Internista,SI,2: Poco común,NO,,NO,,Que tenga buena cálidad;,Menos de $100 ,2: Con poca regularidad
+416,420,Internista,SI,4: Muy Común,SI,Plataforma  propia,SI,Propia,Administración de citas;,Menos de $100 ,4: Con cierta regularidad
+417,421,Internista,SI,2: Poco común,NO,,SI,Skipe,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+418,422,Internista,NO,1: No será común ,NO,,SI,Skipe,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+419,423,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,4: Con cierta regularidad
+420,424,Internista,NO,1: No será común ,NO,,NO,,no esta interesado ya que se le hace poco practico utilizar estas aplicaciones ;,No pagaría por una,1: No la utilizaría
+421,425,Internista,SI,3: Neutral,SI,ELIONOR,SI,ELIONOR,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Más de $750,5: Regularmente
+422,426,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",No pagaría por una,1: No la utilizaría
+423,427,Internista,NO,1: No será común ,NO,,SI,Skipe,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+424,428,Internista,NO,1: No será común ,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,1: No la utilizaría
+425,429,Internista,SI,2: Poco común,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+426,430,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,No pagaría por una,5: Regularmente
+427,431,Internista,SI,2: Poco común,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+428,432,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,3: Neutral
+429,433,Internista,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+430,434,Internista,SI,2: Poco común,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+431,435,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+432,436,Internista,SI,2: Poco común,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,3: Neutral
+433,437,Internista,SI,2: Poco común,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+434,438,Internista,SI,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $100 ,3: Neutral
+435,439,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+436,440,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+437,441,Endocrinólogo,SI,2: Poco común,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+438,442,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+439,443,Internista,NO,3: Neutral,NO,,SI,Skipe,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,3: Neutral
+440,444,Internista,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,Menos de $100 ,4: Con cierta regularidad
+441,445,Internista,NO,3: Neutral,NO,,SI,"Skipe, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,3: Neutral
+442,446,Endocrinólogo,SI,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+443,447,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+444,448,Internista,SI,2: Poco común,NO,,NO,,Todas;,No pagaría por una,2: Con poca regularidad
+445,449,Internista,NO,2: Poco común,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,2: Con poca regularidad
+446,450,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+447,451,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+448,452,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+449,453,Internista,NO,4: Muy Común,NO,,NO,,Gestión de pagos;,No pagaría por una,4: Con cierta regularidad
+450,454,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+451,455,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,1: No la utilizaría
+452,456,Internista,SI,2: Poco común,SI,Expediente electronico,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+453,457,Internista,NO,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,3: Neutral
+454,458,Endocrinólogo,SI,4: Muy Común,SI,Gestion de citas,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+455,459,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes ;",No pagaría por una,2: Con poca regularidad
+456,460,Internista,SI,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $100 ,2: Con poca regularidad
+457,461,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+458,462,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+459,463,Internista,NO,1: No será común ,SI,las que están establecidas en la institución imss,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+460,464,Internista,NO,3: Neutral,SI,La nube de chopo,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+461,465,Endocrinólogo,SI,2: Poco común,SI,Pagos,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;,No pagaría por una,2: Con poca regularidad
+462,466,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+463,467,Endocrinólogo,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+464,468,Internista,NO,2: Poco común,SI,La de chopo y otros laboratorios,NO,,Por el momento no tengo alguna en mente;,No pagaría por una,2: Con poca regularidad
+465,469,Internista,NO,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,3: Neutral
+466,470,Internista,NO,1: No será común ,SI,Solo la nube,NO,,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+467,471,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,2: Con poca regularidad
+468,472,Internista,NO,2: Poco común,SI,Plataformas de laboratorios y personales,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+469,473,Internista,NO,2: Poco común,SI,No,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+470,474,Internista,NO,3: Neutral,SI,Las de los laboratorios y agenda personal,NO,,Podria ser algo de ayuda en algunos casos;,No pagaría por una,2: Con poca regularidad
+471,475,Internista,NO,1: No será común ,SI,Las del hospital,NO,,Se aplican varias plataformas en el hospital Universitario;Administración de citas;,No pagaría por una,2: Con poca regularidad
+472,476,Internista,NO,3: Neutral,SI,Las del hospital llevan un control del px,NO,,Las mayoria de esta informacion las tienen en el hospital;,No pagaría por una,2: Con poca regularidad
+473,477,Internista,SI,4: Muy Común,NO,,SI,Zoom. ,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,5: Regularmente
+474,478,Internista,NO,3: Neutral,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Menos de $750 ,3: Neutral
+475,479,Internista,NO,2: Poco común,SI,Las que tiene la clinica,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+476,480,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+477,481,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,2: Con poca regularidad
+478,482,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,2: Con poca regularidad
+479,483,Endocrinólogo,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,4: Con cierta regularidad
+480,484,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $100 ,2: Con poca regularidad
+481,485,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+482,486,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $100 ,2: Con poca regularidad
+483,487,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $100 ,2: Con poca regularidad
+484,488,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,4: Con cierta regularidad
+485,489,Endocrinólogo,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,4: Con cierta regularidad
+486,490,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,3: Neutral
+487,491,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+488,492,Internista,SI,2: Poco común,SI,Las que tienen en el Hospital Huniversitari,NO,,Esta informacion nos la da el Hospital ;,No pagaría por una,2: Con poca regularidad
+489,493,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+490,494,Internista,SI,2: Poco común,SI,"Trabaja como medico en el Hospital Universitaro ellos tienen un sistema de registro de px ,cobros y encuestasba paciente",NO,,El hospital esta al tanto de toda esta informacion;,No pagaría por una,3: Neutral
+491,495,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,No pagaría por una,2: Con poca regularidad
+492,496,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+493,497,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+494,498,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,Menos de $750 ,2: Con poca regularidad
+495,499,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+496,500,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+497,501,Internista,SI,3: Neutral,SI,EVERNOTE,SI,"ZOOM, WHATSAPP","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+498,502,Internista,NO,5: Totalmente Común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+499,503,Internista,NO,5: Totalmente Común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+500,504,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Aplicación de promociones de descuento para clientes ;,Menos de $100 ,3: Neutral
+501,505,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,4: Con cierta regularidad
+502,506,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Menos de $100 ,1: No la utilizaría
+503,507,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+504,508,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+505,509,Internista,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+506,510,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+507,511,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+508,512,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+509,513,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $100 ,3: Neutral
+510,514,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+511,515,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+512,516,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+513,517,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+514,518,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+515,519,Internista,NO,1: No será común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+516,520,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+517,521,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+518,522,Internista,NO,3: Neutral,NO,,NO,,Gestión de pagos;,Menos de $100 ,3: Neutral
+519,523,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+520,524,Endocrinólogo,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+521,525,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+522,526,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+523,527,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,1: No la utilizaría
+524,528,Internista,SI,3: Neutral,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Menos de $100 ,3: Neutral
+525,529,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+526,530,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,3: Neutral
+527,531,Endocrinólogo,NO,3: Neutral,NO,,NO,,Gestión de pagos;,No pagaría por una,1: No la utilizaría
+528,532,Internista,SI,4: Muy Común,SI,no menciona cual,SI,no menciona,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,4: Con cierta regularidad
+529,533,Internista,NO,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",No pagaría por una,5: Regularmente
+530,534,Internista,SI,2: Poco común,SI,Pagos,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,2: Con poca regularidad
+531,535,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $750 ,2: Con poca regularidad
+532,536,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+533,537,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Aplicación de promociones de descuento para clientes ;",No pagaría por una,1: No la utilizaría
+534,538,Internista,SI,3: Neutral,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+535,539,Internista,SI,2: Poco común,SI,"Gestion de citas, videoconferencia y pagos",SI,Zoom,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+536,540,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+537,541,Endocrinólogo,SI,2: Poco común,SI,La utiliza para agenda video conferencia pagos ,SI,Wsp zoom,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+538,542,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,2: Con poca regularidad
+539,543,Internista,SI,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,2: Con poca regularidad
+540,544,Internista,NO,3: Neutral,NO,,NO,,Administración de citas;Aplicación de promociones de descuento para clientes ;,Menos de $100 ,2: Con poca regularidad
+541,545,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+542,546,Internista,NO,3: Neutral,NO,,NO,,Gestión de pagos;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,4: Con cierta regularidad
+543,547,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+544,548,Internista,NO,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+545,549,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Aplicación de promociones de descuento para clientes ;",Menos de $750 ,2: Con poca regularidad
+546,550,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;",Menos de $100 ,3: Neutral
+547,551,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+548,552,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,2: Con poca regularidad
+549,553,Internista,SI,4: Muy Común,SI,Asistente,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+550,554,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;,Menos de $100 ,4: Con cierta regularidad
+551,555,Internista,NO,2: Poco común,NO,,NO,,Administración de citas;Despliegue de encuestas de satisfacción de clientes;,Menos de $750 ,3: Neutral
+552,556,Internista,SI,4: Muy Común,NO,,SI,Skype,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,4: Con cierta regularidad
+553,557,Internista,SI,4: Muy Común,NO,,SI,"Skype, webex","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,2: Con poca regularidad
+554,558,Endocrinólogo,NO,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+555,559,Internista,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,2: Con poca regularidad
+556,560,Internista,SI,4: Muy Común,NO,,SI,Skype,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,4: Con cierta regularidad
+557,561,Internista,NO,1: No será común ,SI,No se,NO,,No se;,No pagaría por una,1: No la utilizaría
+558,562,Internista,SI,4: Muy Común,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+559,563,Internista,NO,2: Poco común,NO,,NO,,No me gusta;,No pagaría por una,1: No la utilizaría
+560,564,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+561,565,Internista,NO,1: No será común ,NO,,NO,,No me interesa;,No pagaría por una,1: No la utilizaría
+562,566,Endocrinólogo,SI,3: Neutral,SI,Programa en computadora para citas y facturacion.,SI,Wapp,Gestión de pagos;,No pagaría por una,3: Neutral
+563,567,Internista,NO,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+564,568,Internista,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,4: Con cierta regularidad
+565,569,Internista,SI,1: No será común ,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+566,570,Internista,NO,2: Poco común,SI,Skype,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+567,571,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+568,572,Internista,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+569,573,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,2: Con poca regularidad
+570,574,Endocrinólogo,SI,3: Neutral,SI,Bancaria y empresas,SI,Empresarial,Ninguna;,No pagaría por una,3: Neutral
+571,575,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,2: Con poca regularidad
+572,576,Internista,NO,1: No será común ,NO,,NO,,No me interesaría ;,No pagaría por una,1: No la utilizaría
+573,577,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,5: Regularmente
+574,578,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+575,579,Internista,SI,5: Totalmente Común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,5: Regularmente
+576,580,Internista,SI,5: Totalmente Común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,5: Regularmente
+577,581,Endocrinólogo,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,5: Regularmente
+578,582,Endocrinólogo,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+579,583,Internista,SI,5: Totalmente Común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+580,584,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,4: Con cierta regularidad
+581,585,Internista,SI,5: Totalmente Común ,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,5: Regularmente
+582,586,Internista,NO,1: No será común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+583,587,Internista,SI,5: Totalmente Común ,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;,Menos de $100 ,5: Regularmente
+584,588,Internista,SI,5: Totalmente Común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,5: Regularmente
+585,589,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+586,590,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+587,591,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,Menos de $750 ,4: Con cierta regularidad
+588,592,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+589,593,Internista,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+590,594,Internista,NO,1: No será común ,NO,,NO,,No la Usaría ;,No pagaría por una,1: No la utilizaría
+591,595,Internista,NO,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+592,596,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,3: Neutral
+593,597,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,4: Con cierta regularidad
+594,598,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,3: Neutral
+595,599,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+596,600,Internista,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,3: Neutral
+597,601,Endocrinólogo,SI,4: Muy Común,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes;",Menos de $100,4: Con cierta regularidad
+598,602,Endocrinólogo,SI,4: Muy Común,SI,Doctoralia,SI,Doctoralia,Creación automática de videoconferencias;Gestión de pagos;Aplicación de promociones de descuento para clientes;,Más de $750,2: Con poca regularidad
+599,603,Endocrinólogo,SI,3: Neutral,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes;",Menos de $100,4: Con cierta regularidad
+600,604,Internista,SI,4: Muy Común,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,4: Con cierta regularidad
+601,605,Internista,SI,3: Neutral,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Más de $750,4: Con cierta regularidad
+602,606,Internista,SI,4: Muy Común,SI,Google calendar,SI,"Zoom, Skype","Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,5: Regularmente
+603,607,Internista,SI,3: Neutral,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750,3: Neutral
+604,608,Internista,SI,4: Muy Común,SI,,No,"ZOOM
+Whatsapp
+meet","Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+605,609,Internista,SI,4: Muy Común,No,,No,,Creación automática de videoconferencias;,Menos de $100,4: Con cierta regularidad
+606,610,Internista,SI,2: Poco común,SI,Doctoralia,SI,doctoralia,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750,3: Neutral
+607,611,Internista,SI,3: Neutral,No,,No,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Aplicación de promociones de descuento para clientes;",Menos de $750,4: Con cierta regularidad
+608,612,Internista,SI,3: Neutral,No,,No,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Aplicación de promociones de descuento para clientes;",Menos de $100,4: Con cierta regularidad
+609,613,Internista,No,4: Muy Común,No,,No,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+610,614,Internista,SI,4: Muy Común,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $100,4: Con cierta regularidad
+611,615,Internista,SI,3: Neutral,SI,,No,"ZOOM
+WHATS APP
+SKYPE","Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100,4: Con cierta regularidad
+612,616,Internista,SI,5: Totalmente Común ,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,4: Con cierta regularidad
+613,617,Internista,SI,3: Neutral,SI,Doctoralia,SI,"Video conferencias por plataformas comerciales como FaceTime, WhatsApp, Zoom","Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $100,2: Con poca regularidad
+614,618,Internista,SI,3: Neutral,SI,,No,"Zoom, Google Meet, Whatsapp, Microsoft Teams","Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,4: Con cierta regularidad
+615,619,Internista,SI,4: Muy Común,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $100,4: Con cierta regularidad
+616,620,Internista,SI,2: Poco común,SI,DOCTORALIA,SI,DOCTORALIA,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,5: Regularmente
+617,621,Endocrinólogo,SI,4: Muy Común,SI,Doctor anytime,SI,Doctor anytime,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,4: Con cierta regularidad
+618,622,Endocrinólogo,SI,3: Neutral,SI,,No,Zoom,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,3: Neutral
+619,623,Endocrinólogo,SI,2: Poco común,SI,,No,zoom,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",No pagaría por una,2: Con poca regularidad
+620,624,Endocrinólogo,SI,3: Neutral,SI,,No,Uso Zoom o teleconferencia telmex,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,4: Con cierta regularidad
+621,625,Endocrinólogo,SI,2: Poco común,SI,Kidok,SI,Kidok,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;Otros (especificar)",Menos de $100,2: Con poca regularidad
+622,626,Internista,SI,5: Totalmente Común ,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $750,5: Regularmente
+623,627,Internista,No,2: Poco común,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",No pagaría por una,1: No la utilizaría
+624,628,Internista,SI,4: Muy Común,No,,No,,Creación automática de videoconferencias;,No pagaría por una,2: Con poca regularidad
+625,629,Internista,SI,3: Neutral,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Despliegue de encuestas de satisfacción de clientes;",Menos de $100,2: Con poca regularidad
+626,630,Internista,No,2: Poco común,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100,2: Con poca regularidad
+627,631,Internista,No,3: Neutral,No,,No,,"Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $750,4: Con cierta regularidad
+628,632,Internista,SI,3: Neutral,No,,No,,Creación automática de videoconferencias;Administración de citas;Gestión de pagos;,Menos de $750,3: Neutral
+629,633,Internista,No,3: Neutral,No,,No,,Otros (especificar),No pagaría por una,1: No la utilizaría
+630,634,Internista,SI,4: Muy Común,SI,,No,"Zoom
+Skype
+WhatsApp","Creación automática de videoconferencias;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes;",Menos de $100,3: Neutral
+631,635,Internista,SI,2: Poco común,No,,No,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750,4: Con cierta regularidad
+632,636,Internista,SI,4: Muy Común,No,,No,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Más de $750,4: Con cierta regularidad
+633,637,Internista,SI,3: Neutral,SI,Metlife,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,1: No la utilizaría
+634,638,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+635,639,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;,No pagaría por una,1: No la utilizaría
+636,640,Internista,SI,2: Poco común,SI,Doctoralia,SI,Doctoralia,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,1: No la utilizaría
+637,641,Internista,SI,4: Muy Común,SI,Whats app y zoom,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+638,642,Internista,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+639,643,Internista,NO,1: No será común ,NO,,NO,,No me interesa ;,No pagaría por una,1: No la utilizaría
+640,644,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,3: Neutral
+641,645,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,3: Neutral
+642,646,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $100 ,2: Con poca regularidad
+643,647,Internista,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,3: Neutral
+644,648,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,No pagaría por una,4: Con cierta regularidad
+645,649,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,1: No la utilizaría
+646,650,Internista,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,3: Neutral
+647,651,Internista,NO,2: Poco común,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+648,652,Internista,SI,2: Poco común,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+649,653,Internista,NO,2: Poco común,NO,,NO,,A;,No pagaría por una,1: No la utilizaría
+650,654,Internista,NO,1: No será común ,NO,,NO,,No;,No pagaría por una,1: No la utilizaría
+651,655,Internista,NO,3: Neutral,NO,,NO,,No;,No pagaría por una,2: Con poca regularidad
+652,656,Endocrinólogo,SI,3: Neutral,NO,,SI,SKYPE,Creación automática de videoconferencias con clientes;,Menos de $750 ,2: Con poca regularidad
+653,657,Internista,NO,1: No será común ,NO,,NO,,Ni;,No pagaría por una,1: No la utilizaría
+654,658,Internista,SI,2: Poco común,SI,Duo,NO,,Administración de citas;,No pagaría por una,3: Neutral
+655,659,Internista,SI,2: Poco común,NO,,NO,,No;,No pagaría por una,3: Neutral
+656,660,Internista,NO,2: Poco común,NO,,NO,,No;,No pagaría por una,3: Neutral
+657,661,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,1: No la utilizaría
+658,662,Endocrinólogo,SI,2: Poco común,NO,,NO,,Administración de citas;,Menos de $750 ,2: Con poca regularidad
+659,663,Endocrinólogo,SI,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+660,664,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,2: Con poca regularidad
+661,665,Endocrinólogo,SI,3: Neutral,SI,,SI,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,3: Neutral
+662,666,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+663,667,Endocrinólogo,SI,5: Totalmente Común ,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+664,668,Endocrinólogo,SI,2: Poco común,SI,,SI,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+665,669,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+666,670,Endocrinólogo,SI,4: Muy Común,SI,,SI,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Más de $750,4: Con cierta regularidad
+667,671,Endocrinólogo,SI,4: Muy Común,SI,,SI,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+668,672,Endocrinólogo,SI,1: No será común ,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,1: No la utilizaría
+669,673,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,3: Neutral
+670,674,Endocrinólogo,SI,4: Muy Común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;Aplicación de promociones de descuento para clientes ;",Menos de $750 ,4: Con cierta regularidad
+671,675,Endocrinólogo,NO,2: Poco común,NO,,SI,Whatsapp,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,3: Neutral
+672,676,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $100 ,2: Con poca regularidad
+673,677,Endocrinólogo,NO,1: No será común ,SI,Plataforma de Hospital civil,SI,ZOOM,No es útil por el momento ;,No pagaría por una,2: Con poca regularidad
+674,678,Endocrinólogo,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+675,679,Endocrinólogo,NO,2: Poco común,NO,,NO,,Aplicación de promociones de descuento para clientes ;,No pagaría por una,1: No la utilizaría
+676,680,Endocrinólogo,NO,2: Poco común,SI,,SI,,Administración de citas;,No pagaría por una,1: No la utilizaría
+677,681,Endocrinólogo,SI,4: Muy Común,SI,Eleonor,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+678,682,Endocrinólogo,SI,4: Muy Común,SI,contpaq,SI,"skype, zoom, visor vz",Creación automática de videoconferencias con clientes;,Menos de $750 ,5: Regularmente
+679,683,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+680,684,Endocrinólogo,NO,2: Poco común,SI,Prefiere no mencionarlo,NO,,Administración de citas;,Menos de $750 ,2: Con poca regularidad
+681,685,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,3: Neutral
+682,686,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;,Menos de $750 ,3: Neutral
+683,687,Endocrinólogo,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Menos de $750 ,3: Neutral
+684,688,Internista,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+685,689,Internista,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,3: Neutral
+686,690,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",No pagaría por una,2: Con poca regularidad
+687,691,Internista,NO,1: No será común ,NO,,NO,,No;,No pagaría por una,1: No la utilizaría
+688,692,Internista,SI,2: Poco común,NO,,NO,,Todas;,No pagaría por una,2: Con poca regularidad
+689,693,Endocrinólogo,NO,3: Neutral,NO,,SI,Zoom,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",No pagaría por una,2: Con poca regularidad
+690,694,Endocrinólogo,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;Aplicación de promociones de descuento para clientes ;,Menos de $750 ,3: Neutral
+691,695,Endocrinólogo,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+692,696,Endocrinólogo,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,4: Con cierta regularidad
+693,697,Endocrinólogo,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+694,698,Endocrinólogo,NO,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,2: Con poca regularidad
+695,699,Endocrinólogo,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,4: Con cierta regularidad
+696,700,Endocrinólogo,SI,2: Poco común,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,4: Con cierta regularidad
+697,701,Endocrinólogo,NO,2: Poco común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,2: Con poca regularidad
+698,702,Endocrinólogo,NO,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,4: Con cierta regularidad
+699,703,Endocrinólogo,NO,2: Poco común,SI,La de la clinica ,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+700,704,Endocrinólogo,NO,2: Poco común,SI,La del consltorio y algunas de laboratorios,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",No pagaría por una,2: Con poca regularidad
+701,705,Endocrinólogo,SI,3: Neutral,SI,NIMBO,SI,NIMBO,Creación automática de videoconferencias con clientes;Administración de citas;,Menos de $750 ,3: Neutral
+702,706,Endocrinólogo,SI,3: Neutral,NO,,SI,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,3: Neutral
+703,707,Endocrinólogo,SI,3: Neutral,NO,,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $100 ,2: Con poca regularidad
+704,708,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,3: Neutral
+705,709,Endocrinólogo,SI,4: Muy Común,NO,,NO,,Creación automática de videoconferencias con clientes;,Más de $750,4: Con cierta regularidad
+706,710,Endocrinólogo,NO,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $750 ,2: Con poca regularidad
+707,711,Endocrinólogo,SI,3: Neutral,NO,,SI,"Whatsapp, zoom","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",Menos de $750 ,4: Con cierta regularidad
+708,712,Endocrinólogo,SI,3: Neutral,SI,dralia,SI,zoom,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;Despliegue de encuestas de satisfacción de clientes;",No pagaría por una,3: Neutral
+709,713,Endocrinólogo,NO,1: No será común ,NO,,NO,,No me interesa ;,No pagaría por una,1: No la utilizaría
+710,714,Endocrinólogo,NO,1: No será común ,NO,,NO,,No lo utilizaría;,No pagaría por una,1: No la utilizaría
+711,715,Endocrinólogo,SI,3: Neutral,NO,,NO,,Administración de citas;Despliegue de encuestas de satisfacción de clientes;,No pagaría por una,3: Neutral
+712,716,Endocrinólogo,SI,3: Neutral,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,3: Neutral
+713,717,Endocrinólogo,NO,2: Poco común,NO,,NO,,Administración de citas;,Menos de $100 ,2: Con poca regularidad
+714,718,Endocrinólogo,SI,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,2: Con poca regularidad
+715,719,Endocrinólogo,NO,3: Neutral,NO,,NO,,Dice que le llame en Agosto;,No pagaría por una,3: Neutral
+716,720,Endocrinólogo,NO,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,No pagaría por una,1: No la utilizaría
+717,721,Endocrinólogo,SI,5: Totalmente Común ,SI,"No especifico, solicito llamada en agosto",SI,No especifico,"Solicito llamada después, estaba ocupada;",No pagaría por una,3: Neutral
+718,722,Internista,SI,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+719,723,Endocrinólogo,SI,4: Muy Común,SI,Todas,SI,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;",Más de $750,4: Con cierta regularidad
+720,724,Internista,SI,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;Gestión de pagos;,Menos de $100 ,3: Neutral
+721,725,Endocrinólogo,NO,3: Neutral,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+722,726,Endocrinólogo,NO,4: Muy Común,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,3: Neutral
+723,727,Endocrinólogo,NO,2: Poco común,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+724,728,Internista,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+725,729,Endocrinólogo,SI,4: Muy Común,NO,,NO,,Administración de citas;Gestión de pagos;,No pagaría por una,3: Neutral
+726,730,Endocrinólogo,SI,3: Neutral,SI,Pagina clinica vitaplenus,NO,,Creación automática de videoconferencias con clientes;Administración de citas;Gestión de pagos;,Menos de $750 ,3: Neutral
+727,731,Internista,NO,1: No será común ,NO,,NO,,Administración de citas;,No pagaría por una,1: No la utilizaría
+728,732,Endocrinólogo,SI,4: Muy Común,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+729,733,Internista,SI,2: Poco común,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+730,734,Endocrinólogo,SI,4: Muy Común,NO,,SI,whatsapp,Administración de citas;Gestión de pagos;,No pagaría por una,3: Neutral
+731,735,Internista,SI,2: Poco común,NO,,NO,,Administración de citas;Gestión de pagos;,Menos de $750 ,3: Neutral
+732,736,Endocrinólogo,SI,4: Muy Común,SI,zoom,SI,zoom,Administración de citas;Gestión de pagos;,No pagaría por una,3: Neutral
+733,737,Endocrinólogo,SI,4: Muy Común,SI,,SI,Duo,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+734,738,Endocrinólogo,SI,3: Neutral,SI,"Whats, zoom",NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $100 ,3: Neutral
+735,739,Endocrinólogo,SI,1: No será común ,NO,,NO,,No me interesa dar teleconsulta;,No pagaría por una,1: No la utilizaría
+736,740,Endocrinólogo,NO,1: No será común ,NO,,NO,,Administración de citas;,Menos de $100 ,1: No la utilizaría
+737,741,Endocrinólogo,NO,1: No será común ,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $100 ,1: No la utilizaría
+738,742,Endocrinólogo,SI,4: Muy Común,NO,,SI,"Whasapp, zoom","Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+739,743,Endocrinólogo,SI,4: Muy Común,NO,,SI,"Whats,zoom",Administración de citas;,Menos de $100 ,2: Con poca regularidad
+740,744,Endocrinólogo,NO,3: Neutral,NO,,NO,,Creación automática de videoconferencias con clientes;,Menos de $750 ,3: Neutral
+741,745,Endocrinólogo,SI,4: Muy Común,NO,,SI,WHATSAPP,Administración de citas;Gestión de pagos;,Menos de $100 ,4: Con cierta regularidad
+742,746,Endocrinólogo,SI,2: Poco común,SI,Página de internet ,NO,,"Envío y recepción de documentos con cliente (estudios, recetas médicas);",Menos de $750 ,3: Neutral
+743,747,Endocrinólogo,SI,5: Totalmente Común ,SI,Medikato,SI,Medikato,Creación automática de videoconferencias con clientes;,Menos de $750 ,4: Con cierta regularidad
+744,748,Endocrinólogo,SI,4: Muy Común,SI,WHATSAPP,SI,WHATSAPP,Administración de citas;Gestión de pagos;,Menos de $750 ,2: Con poca regularidad
+745,749,Endocrinólogo,SI,4: Muy Común,SI,SKIPE,SI,SKIPE,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+746,750,Endocrinólogo,SI,4: Muy Común,NO,,SI,WHATSAPP,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Administración de citas;Gestión de pagos;",Menos de $750 ,4: Con cierta regularidad
+747,751,Endocrinólogo,SI,5: Totalmente Común ,NO,,NO,,Aplicación de promociones de descuento para clientes ;,Más de $750,5: Regularmente
+748,752,Endocrinólogo,SI,4: Muy Común,SI,Consultas en linea,SI,Medikato,Creación automática de videoconferencias con clientes;Despliegue de encuestas de satisfacción de clientes;,Más de $750,5: Regularmente
+749,753,Endocrinólogo,NO,5: Totalmente Común ,SI,Doctoralia,NO,,Creación automática de videoconferencias con clientes;,Más de $750,5: Regularmente
+750,754,Endocrinólogo,SI,5: Totalmente Común ,SI,Citas atra vez de doctoralia,NO,,Administración de citas;,Más de $750,5: Regularmente
+751,755,Endocrinólogo,SI,5: Totalmente Común ,SI,Gestion de citas,SI,Medikato,Administración de citas;,Más de $750,5: Regularmente
+752,756,Endocrinólogo,SI,2: Poco común,NO,,SI,Skype,Creación automática de videoconferencias con clientes;,Menos de $100 ,3: Neutral
+753,757,Endocrinólogo,SI,3: Neutral,NO,,NO,,"Creación automática de videoconferencias con clientes;Envío y recepción de documentos con cliente (estudios, recetas médicas);Gestión de pagos;",Menos de $100 ,3: Neutral
