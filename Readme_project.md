@@ -6,6 +6,8 @@
 
 
 
+---
+
 ## Participants
 
 |        Name        |     Role      |   GitHub   | Mail                  |
@@ -17,11 +19,24 @@
 
 
 
-## Objectives
+---
 
-Analyze Mexican's doctors propensity to utilize technological tools to enhance their heath services by answering the following questions:
+## Project objective
 
-1. Null Hypothesis to be challenged: at least 50% of the Mexican doctors that are offered a technological platform that supports their service would be willing to use it regularly or very regularly.
-2. Is there a correlation between a doctor's age and both his/her perception about the attractiveness of telemedicine in the future and his/her willingness to adopt a technological tool to enable services such as telemedicine?
-3. What are the attributes that doctors value the most in a technological platform that enhances their services?
-4. Is there a correlation between the willingness to use the platform and a payment they are willing to make?
+**Analyze Mexican's doctors propensity to utilize technological tools to enhance their heath services by answering the following questions:**
+
+#### Subproject a) [esesancr]
+
+Is there a correlation between a doctor's age and both his/her perception about the attractiveness of telemedicine in the future and his/her willingness to adopt a technological tool to enable services such as telemedicine?
+
+#### Subproject b) [cecyar]
+
+What are the attributes that doctors value the most in a technological platform that enhances their services?
+
+#### Subproject c) [Roberto919]
+
+Is there a correlation between the willingness to use the platform and a payment they are willing to make?
+
+#### Subproject d) [cecyar, esesancr, Roberto919]
+
+Null Hypothesis to be challenged: at least 50% of the Mexican doctors that are offered a technological platform that supports their service would be willing to use it regularly or very regularly.
