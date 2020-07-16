@@ -21,4 +21,6 @@
 
 Analyze Mexican's doctors propensity to utilize technological tools to enhance their heath services by answering the following questions:
 
-1. Is there a correlation between a doctor's age and its willingness to adopt a 
+1. Null Hypothesis to be challenged: at least 50% of the Mexican doctors that are offered a technological platform that supports their service would be willing to use it regularly or very regularly.
+2. Is there a correlation between a doctor's age and both his/her perception about the attractiveness of telemedicine in the future and his/her willingness to adopt a technological tool to enable services such as telemedicine?
+3. What are the attributes that doctors value the most in a technological platform that enhances their services?
