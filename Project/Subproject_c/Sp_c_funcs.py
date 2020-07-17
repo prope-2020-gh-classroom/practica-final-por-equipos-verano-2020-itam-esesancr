@@ -40,3 +40,9 @@ def cleaning_df(df):
 
     ## Assigning short columns names to relevant columns
     df.rename(rc, axis=1, inplace=True)
+
+    ## Cleaning 'dirty' entries in 'Considera_tele' column
+    df['Considera_tele'] = df['Considera_tele'].apply(lambda x: 'NO' if x.strip() == 'No' else x)
+
+    ## Eliminating spaces in 'Pagar_cuanto' column
+    df['Pagar_cuanto'] = df['Pagar_cuanto'].apply(lambda x: x.strip())
