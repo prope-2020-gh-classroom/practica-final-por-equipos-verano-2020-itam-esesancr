@@ -1,4 +1,4 @@
-# Subproject C
+# Subproject B
 
 - Main contributor: Cecilia Avilés Robles
   - GitHub: cecyar 
@@ -12,10 +12,8 @@ Analyze what are the attributes that doctors value the most in a technological p
 
 This analysis must consider the following two conditions:
 
-- **Default answers**
-  Pre-written answers given to choose from (either 1 to all).
-- **Free text**
-  In case the subject did not want to select a default answer, he/she was given the option to write his/her own.
+- **Default answers**: Pre-written answers given to choose from (either 1 to all).
+- **Free text**: In case the subject did not want to select a default answer, he/she was given the option to write his/her own.
 
 
 
