@@ -8,7 +8,7 @@
 
 ## Subproject objective
 
-Analyze what are the attributes that doctors value the most in a technological platform that could enhance their services. This should be accomplished by examining the answers given to the question "Seleccione las funcionalidades que considera importantes para que estén presentes en una plataforma digital que lo apoye con la gestión de sus servicios médicos."
+Analyze what are the attributes that doctors value the most in a technological platform that could enhance their services. This should be accomplished by examining the answers given to the question _"Seleccione las funcionalidades que considera importantes para que estén presentes en una plataforma digital que lo apoye con la gestión de sus servicios médicos."_
 
 This analysis must consider the following two conditions:
 
@@ -29,16 +29,16 @@ The condition in which a default answer was selected was mainly analyzed with Pa
 
 ## Results
 
-Our sample size consisted of $765$ answers given by 765 doctors. 
+Our sample size consisted of _765_ answers given by _765_ doctors. 
 
-An $82$% selected one of the default answers. The top three default answers chosen were:
+An _82%_ selected one of the default answers. The top three default answers chosen were:
 - Creación automática de videoconferencias con clientes (536 times).
 - Administración de citas (379 times).
 - Envío y recepción de documentos con cliente (363 times).
 
-A $13$% choose not to select a default answer, opting to write their own instead. From this: 
-- The most common given answer was negative towards the digital platform, representing roughly the $10$% of the total sample. 
-- Almost the $1.5$% value attributes of either _quality_ or _information_ on the hypothetical digital platform. 
+A _13%_ choose not to select a default answer, opting to write their own instead. From this: 
+- The most common given answer was negative towards the digital platform, representing roughly the _10%_ of the total sample. 
+- Almost the _1.5%_ value attributes of either _quality_ or _information_ on the hypothetical digital platform. 
 - The rest of the written answers do not provide any significant information due to very low sample size and no specific trend observed.
 
 
